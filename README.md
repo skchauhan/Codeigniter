@@ -2,12 +2,16 @@
 
 
 php index.php console migrate
+
 Create table users
+
 users
 
 
 php index.php console migrate
+
 modify table users
+
 users
 
 
