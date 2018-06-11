@@ -1,6 +1,8 @@
 # Codeigniter
 
 
+Console folder in Controller
+
 php index.php console migrate
 
 Create table users
